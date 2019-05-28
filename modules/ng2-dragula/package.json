@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@types/dragula": "^2.1.34",
-    "dragula": "git+https://git@github.com/spartez/dragula.git#master"
+    "dragula": "git+https://git@github.com/spartez/dragula.git#mixed-direction"
   },
   "peerDependencies": {
     "@angular/core": ">=6.0.0",
